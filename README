@@ -1,0 +1,7 @@
+This is a batch script for Windows only.
+
+This is a batch script that should export all files and folders from OneNote, import them into Evernote, and run a sync on Evernote.
+
+It creates and uses a folder @ C:\ExportFolder, which may or may not always get cleaned up.
+
+- Shakna Israel.
